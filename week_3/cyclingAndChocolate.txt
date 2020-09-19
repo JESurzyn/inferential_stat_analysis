@@ -1,0 +1,17 @@
+TO: The Head Trainer, U.S. Bicyle Team
+
+FROM: John Doe, Sports Science Research Consultant
+
+DATE: September 18, 2020
+
+SUBJECT: Chocolate Consumption and Cycling Performance Study Overview
+
+Intro and Recommendations
+
+
+Interpretting the Results
+Make a note of study design
+interpretting the P-values in the context of hypothesis testing
+Interpretting the confidence intervals in context
+
+
